@@ -1,4 +1,4 @@
-# Dart JSON Practice 🇰🇷
+# Dart JSON Practice 
  
  Flutter를 공부하면서 JSON 데이터를 어떻게 처리하는지 직접 실습해본 Dart 프로젝트입니다.  
  Dart에서 `Map`, `String`, `Class`를 서로 변환하며 JSON 직렬화와 역직렬화를 연습할 수 있도록 구성되어 있어요.
